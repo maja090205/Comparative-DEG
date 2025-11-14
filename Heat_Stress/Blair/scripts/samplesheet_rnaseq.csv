@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,strandedness
+SRX4240060,/work/zarski/arabid_blair/skripts/fastq/SRX4240060_SRR7367111.fastq.gz,,auto
+SRX4240061,/work/zarski/arabid_blair/skripts/fastq/SRX4240061_SRR7367112.fastq.gz,,auto
+SRX4240062,/work/zarski/arabid_blair/skripts/fastq/SRX4240062_SRR7367113.fastq.gz,,auto
+SRX4240063,/work/zarski/arabid_blair/skripts/fastq/SRX4240063_SRR7367114.fastq.gz,,auto
+SRX4240068,/work/zarski/arabid_blair/skripts/fastq/SRX4240068_SRR7367119.fastq.gz,,auto
+SRX4240069,/work/zarski/arabid_blair/skripts/fastq/SRX4240069_SRR7367120.fastq.gz,,auto
+SRX4240070,/work/zarski/arabid_blair/skripts/fastq/SRX4240070_SRR7367121.fastq.gz,,auto
+SRX4240071,/work/zarski/arabid_blair/skripts/fastq/SRX4240071_SRR7367122.fastq.gz,,auto
+SRX4240080,/work/zarski/arabid_blair/skripts/fastq/SRX4240080_SRR7367131.fastq.gz,,auto
+SRX4240082,/work/zarski/arabid_blair/skripts/fastq/SRX4240082_SRR7367133.fastq.gz,,auto
+SRX4240084,/work/zarski/arabid_blair/skripts/fastq/SRX4240084_SRR7367135.fastq.gz,,auto
+SRX4240085,/work/zarski/arabid_blair/skripts/fastq/SRX4240085_SRR7367136.fastq.gz,,auto

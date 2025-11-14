@@ -1,0 +1,13 @@
+samples,group,timepoint,replicate
+SRX4240060,control,ZT1,1.0
+SRX4240061,control,ZT1,2.0
+SRX4240062,control,ZT1,3.0
+SRX4240063,control,ZT1,4.0
+SRX4240068,warm,ZT1,1.0
+SRX4240069,warm,ZT1,2.0
+SRX4240070,warm,ZT1,3.0
+SRX4240071,warm,ZT1,4.0
+SRX4240080,control,ZT6,1.0
+SRX4240082,warm,ZT6,1.0
+SRX4240084,control,ZT6,2.0
+SRX4240085,warm,ZT6,2.0
