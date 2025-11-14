@@ -1,0 +1,10 @@
+sample,group,repetition
+SRX4520740,control,1.0
+SRX4520741,control,2.0
+SRX4520742,control,3.0
+SRX4520743,warm,1.0
+SRX4520744,warm,2.0
+SRX4520745,warm,3.0
+SRX4520746,heat,1.0
+SRX4520747,heat,2.0
+SRX4520748,heat,3.0

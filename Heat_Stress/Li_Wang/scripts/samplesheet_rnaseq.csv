@@ -1,0 +1,10 @@
+sample,fastq_1,fastq_2,strandedness
+SRX4520740,/work/zarski/arabid_liwang/skripts/fastq/SRX4520740_SRR7659142_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520740_SRR7659142_2.fastq.gz,auto
+SRX4520741,/work/zarski/arabid_liwang/skripts/fastq/SRX4520741_SRR7659143_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520741_SRR7659143_2.fastq.gz,auto
+SRX4520742,/work/zarski/arabid_liwang/skripts/fastq/SRX4520742_SRR7659144_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520742_SRR7659144_2.fastq.gz,auto
+SRX4520743,/work/zarski/arabid_liwang/skripts/fastq/SRX4520743_SRR7659145_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520743_SRR7659145_2.fastq.gz,auto
+SRX4520744,/work/zarski/arabid_liwang/skripts/fastq/SRX4520744_SRR7659146_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520744_SRR7659146_2.fastq.gz,auto
+SRX4520745,/work/zarski/arabid_liwang/skripts/fastq/SRX4520745_SRR7659147_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520745_SRR7659147_2.fastq.gz,auto
+SRX4520746,/work/zarski/arabid_liwang/skripts/fastq/SRX4520746_SRR7659148_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520746_SRR7659148_2.fastq.gz,auto
+SRX4520747,/work/zarski/arabid_liwang/skripts/fastq/SRX4520747_SRR7659149_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520747_SRR7659149_2.fastq.gz,auto
+SRX4520748,/work/zarski/arabid_liwang/skripts/fastq/SRX4520748_SRR7659150_1.fastq.gz,/work/zarski/arabid_liwang/skripts/fastq/SRX4520748_SRR7659150_2.fastq.gz,auto
